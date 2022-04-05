@@ -1,0 +1,20 @@
+{
+  "name": "holepunch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node discover.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conqueror135/HolePunchingOfThang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conqueror135/HolePunchingOfThang/issues"
+  },
+  "homepage": "https://github.com/Conqueror135/HolePunchingOfThang#readme"
+}
